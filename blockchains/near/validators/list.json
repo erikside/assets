@@ -46,5 +46,11 @@
         "name": "Stakin",
         "description": "NEAR staking services by an experienced enterprise validator trusted by institutions and the communities",
         "website": "https://stakin.com"
+    },
+    {
+        "id": "trust-nodes.poolv1.near",
+        "name": "Trust Nodes",
+        "description": "The most trusted & secure crypto wallet",
+        "website": "https://trustwallet.com"
     }
 ]
